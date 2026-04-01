@@ -3,12 +3,16 @@
 ### 🐍 Criador da Snakened
 Estou a desenvolver a minha própria linguagem de programação usando Python.
 
-- 🛠️ **Projetos Atuais:** - [Snakened](https://github.com/jplgoncalves/snakened) (Linguagem de programação em Python)
-    - [Gonix](https://github.com/jplgoncalves/gonix) (Micro OS em C/Assembly)
-- 🚀 **Status:** Snakened já resolve cálculos; Gonix em fase de Kernel básico.
-- 🔭 **Objetivo:** Criar uma linguagem simples e funcional; criar um micro sistema operativo independente. 
+- 🚀 **Projetos Atuais:** - [Snakened](https://github.com/jplgoncalves/snakened) (Linguagem de programação em Python)
+  - [Gonix](https://github.com/jplgoncalves/gonix) (Micro OS em C/Assembly)
+- 🏗️ **Status:** Snakened já resolve cálculos; Gonix em fase de Kernel básico.
+- 🔭 **Objetivo:** Criar uma linguagem simples e funcional; criar um micro sistema operativo independente.
 
-## 🛠️ Skills
+**📄 Currículo:** [Visualizar meu CV (PDF)](https://github.com/user-attachments/files/26404168/_cv_joaopedrolopesgoncalves.pdf)
+
+---
+
+## 🛠 Skills
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -16,8 +20,6 @@ Estou a desenvolver a minha própria linguagem de programação usando Python.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
----
