@@ -1,4 +1,4 @@
-# Olá, eu sou o João Gonçalves! 👋
+# Olá, eu sou o João Gonçalves! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
 
 ### 🐍 Criador da Snakened
 Estou a desenvolver a minha própria linguagem de programação usando Python.
