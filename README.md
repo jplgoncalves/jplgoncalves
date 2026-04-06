@@ -1,4 +1,4 @@
-# Olá, eu sou o João Gonçalves! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ0Z3p6Y3Y0eHByZWp6ZnR3Ynd4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/hvRJCLzdzH88nK6m6f/giphy.gif" width="30px">
+# Olá, eu sou o João Gonçalves! <img src="https://raw.githubusercontent.com/MartinVerre/MartinVerre/master/assets/waving-hand.gif" width="30px">
 
 ### 🐍 Criador da Snakened
 Estou a desenvolver a minha própria linguagem de programação usando Python.
