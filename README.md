@@ -1,7 +1,8 @@
 # Olá, eu sou o João Gonçalves! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 
-### 🐍 Criador da Snakened
+### Criador da Snakened e Gonix Micro OS 
 Estou a desenvolver a minha própria linguagem de programação usando Python.
+Também estou a trabalhar na criação de um micro sistema operativo, do tipo Linux.
 
 - 🚀 **Projetos Atuais:** - [Snakened](https://github.com/jplgoncalves/snakened) (Linguagem de programação em Python)
   - [Gonix](https://github.com/jplgoncalves/gonix) (Micro OS em C/Assembly)
