@@ -9,7 +9,7 @@ Também estou a trabalhar na criação de um micro sistema operativo, do tipo Li
 - 🏗️ **Status:** Snakened já resolve cálculos; Gonix em fase de Kernel básico.
 - 🔭 **Objetivo:** Criar uma linguagem simples e funcional; criar um micro sistema operativo independente.
 
-**📄 Currículo:** [Ver CV](https://raw.githubusercontent.com/jplgoncalves/jplgoncalves/main/_cv_joaopedrolopesgoncalves.pdf)
+**📄 Currículo:** [Ver CV](https://raw.githubusercontent.com/jplgoncalves/jplgoncalves/main/cv-jplgoncalves.pdf)
 
 ---
 
