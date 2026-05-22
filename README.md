@@ -11,13 +11,20 @@ Também estou a trabalhar na criação de um micro sistema operativo, do tipo Li
 
 **📄 Currículo:** [Ver CV](https://raw.githubusercontent.com/jplgoncalves/jplgoncalves/main/cv-jplgoncalves_.pdf)
 
+---
+
 ## 🚀 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/jplgoncalves/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/jpgoncalvesig)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jplgoncalves)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jpgoncalvesig)
+
+---
 
 ## 📊 Meus Status do GitHub
-![Meus Status](https://github-readme-stats.vercel.app/api?username=jplgoncalves&show_icons=true&theme=radial)
----
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jplgoncalves&show_icons=true&theme=radial&include_all_commits=true" alt="Meu Status />
+</p>
 
 ## 🛠 Skills
 
