@@ -16,7 +16,7 @@ Também estou a trabalhar na criação de um micro sistema operativo, do tipo Li
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/jpgoncalvesig)
 
 ## 📊 Meus Status do GitHub
-![Meus Status](https://github-readme-stats.vercel.app/api?username=jplgoncalves&show_icons=true&theme=radial)
+![Meus Status](https://github-readme-stats.vercel.app/api?username=JPLGONCALVES&show_icons=true&theme=radial)
 ---
 
 ## 🛠 Skills
