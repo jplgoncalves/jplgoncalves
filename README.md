@@ -20,14 +20,6 @@ Também estou a trabalhar na criação de um micro sistema operativo, do tipo Li
 
 ---
 
-## 📊 Meus Status do GitHub
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jplgoncalves&theme=radial" alt="Status do João" />
-</p>
-
----
-
 ## 🛠 Skills
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
