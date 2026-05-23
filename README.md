@@ -6,7 +6,7 @@ Também estou a trabalhar na criação de um micro sistema operativo, do tipo Li
 
 - 🚀 **Projetos Atuais:** - [Snakened](https://github.com/jplgoncalves/snakened) (Linguagem de programação em Python)
   - [Gonix](https://github.com/jplgoncalves/gonix) (Micro OS em C/Assembly)
-- 🏗️ **Status:** Snakened já resolve cálculos; Gonix em fase de Kernel básico.
+- **Status:** Snakened já resolve cálculos e tambémjá é reconhecida no VS Code ; Gonix em fase de Kernel básico.
 - 🔭 **Objetivo:** Criar uma linguagem simples e funcional; criar um micro sistema operativo independente.
 
 **📄 Currículo:** [Ver CV](https://raw.githubusercontent.com/jplgoncalves/jplgoncalves/main/cv-jplgoncalves_.pdf)
