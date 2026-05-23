@@ -2,24 +2,17 @@
 
 ### Criador da linguagem de programação Snakened!
 Desenvolvi minha própria linguagem de programação usando Python.
-Também estou a trabalhar na criação de um micro sistema operativo, do tipo Linux.
+Também estou a trabalhar na criação de um micro-sistema operativo, do tipo Linux.
 
 - 🚀 **Projetos Atuais:**
   - [Snakened](https://github.com/jplgoncalves/snakened) (Linguagem de programação desenvolvida em Python em Março de 2026)
   - [Gonix](https://github.com/jplgoncalves/gonix) (Micro OS desenvolvido em Assembly)
     
-- **Status:** Snakened já resolve cálculos e tambémjá é reconhecida no VS Code ; Gonix em fase de Kernel básico.
+- **Status:** Snakened já resolve cálculos e também já é reconhecida no VS Code ; Gonix em fase de Kernel básico.
   
-- 🔭 **Objetivo:** Criar uma linguagem simples e funcional; criar um micro sistema operativo independente.
+- 🔭 **Objetivo:** Criar uma linguagem simples e funcional; criar um mmicro-sistema operativo independente.
 
 **📄 Currículo:** [Ver CV](https://raw.githubusercontent.com/jplgoncalves/jplgoncalves/main/cv-jplgoncalves_.pdf)
-
----
-
-## 🚀 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jplgoncalves)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jpgoncalvesig)
 
 ---
 
