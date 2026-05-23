@@ -8,7 +8,9 @@ Também estou a trabalhar na criação de um micro-sistema operativo, do tipo Li
   - [Snakened](https://github.com/jplgoncalves/snakened) (Linguagem de programação desenvolvida em Python em Março de 2026)
   - [Gonix](https://github.com/jplgoncalves/gonix) (Micro OS desenvolvido em Assembly)
     
-- **Status:** Snakened já resolve cálculos e também já é reconhecida no VS Code ; Gonix em fase de Kernel básico.
+- **Status:**
+   - Snakened já resolve cálculos e também já é reconhecida no VS Code;
+   - Gonix em fase de Kernel básico.
   
 - 🔭 **Objetivo:** Criar uma linguagem simples e funcional; criar um mmicro-sistema operativo independente.
 
