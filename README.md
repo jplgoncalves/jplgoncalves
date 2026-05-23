@@ -23,9 +23,19 @@ Também estou a trabalhar na criação de um micro sistema operativo, do tipo Li
 ## 📊 Meus Status do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jplgoncalves&show_icons=true&theme=radial&include_all_commits=true" alt="Meu Status/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jplgoncalves&show_icons=true&theme=radial&include_all_commits=true" alt="Status do João" />
 </p>
 
+---
+
+## 🛠️ Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
 ---
 
 ## 🛠 Skills
