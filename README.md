@@ -22,9 +22,7 @@ Também estou a trabalhar na criação de um micro sistema operativo, do tipo Li
 
 ## 📊 Meus Status do GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jplgoncalves&show_icons=true&theme=radial&include_all_commits=true" alt="Status do João" />
-</p>
+![Status do João](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=jplgoncalves&show_icons=true&theme=radial)
 
 ---
 
