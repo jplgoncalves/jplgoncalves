@@ -2,7 +2,7 @@
 
 ### Criador da linguagem de programação Snakened!
 Desenvolvi minha própria linguagem de programação usando Python.
-Também estou a trabalhar na criação de um micro-sistema operativo, do tipo Linux.
+Também desenvolvi um micro-sistema operativo, do tipo Linux.
 
 - 🚀 **Projetos Atuais:**
   - [Snakened](https://github.com/jplgoncalves/snakened) (Linguagem de programação desenvolvida em Python em Março de 2026)
