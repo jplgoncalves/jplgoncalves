@@ -1,7 +1,7 @@
 # Olá, eu sou o João Gonçalves! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 
 <p align="center">
-  <img src="link_da_sua_imagem_de_banner_preto.png" alt="Projetos Atuais" width="100%">
+  <img src="logojplgoncalves.png" alt="Projetos Atuais" width="100%">
 </p>
 
 ### Criador da linguagem de programação Snakened!
