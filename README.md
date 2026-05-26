@@ -17,19 +17,6 @@ Também desenvolvi um micro-sistema operativo, do tipo Linux.
 ---
 **📄 Currículo:** [Ver CV](https://raw.githubusercontent.com/jplgoncalves/jplgoncalves/main/cv-jplgoncalves_.pdf) 
 
-```text
-============================================================
-  CRIADOR DA LINGUAGEM DE PROGRAMAÇÃO SNAKENED & GONIX OS
-============================================================
-
-[+] Desenvolvi minha própria linguagem usando Python.
-[+] Desenvolvi um micro-sistema operativo do tipo Linux.
-
-> Projetos Atuais:
-  - Snakened (Lançada a 27 de março de 2026)
-  - Gonix (Lançado a 1 de abril de 2026)
----
-
 ## 🛠 Skills
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
