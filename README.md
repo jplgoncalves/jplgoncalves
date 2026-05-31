@@ -3,10 +3,6 @@
   <img src="banner-.png" alt="Projetos Atuais" width="500">
 </p>
  
-<p align="center">
-  <img src="logojplgoncalves.png" alt="Projetos Atuais" width="50%">
-</p>
-
 ### Criador da linguagem de programação Snakened!
 Desenvolvi minha própria linguagem de programação usando Python.
 Também desenvolvi um micro-sistema operativo, do tipo Linux.
