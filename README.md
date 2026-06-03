@@ -18,7 +18,7 @@ Também desenvolvi um micro-sistema operativo, do tipo Linux.
 - 🔭 **Objetivo:** Criar uma linguagem simples e funcional; criar um mmicro-sistema operativo independente.
 
 ---
-**📄 Currículo:** [Ver CV](https://raw.githubusercontent.com/jplgoncalves/jplgoncalves/main/cv-jplgoncalves_.pdf) 
+**📄 Currículo:** [Ver Currículo](https://raw.githubusercontent.com/jplgoncalves/jplgoncalves/main/cv-jplgoncalves_.pdf) 
 
 ## 🛠️ Skills
 
