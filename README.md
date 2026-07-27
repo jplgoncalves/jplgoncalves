@@ -10,6 +10,7 @@ Também desenvolvi um micro-sistema operativo, do tipo Linux.
 - 🚀 **Projetos Atuais:**
   - [Snakened](https://github.com/jplgoncalves/snakened) (Linguagem de programação desenvolvida em Python, lançada a 27 de março de 2026)
   - [Gonix](https://github.com/jplgoncalves/gonix) (Micro-sistema operativo desenvolvido em Assembly, lançado a 1 de abril de 2026)
+  - [ApdrenderMais](https://github.com/jplgoncalves/aprendermais-platform) (Uma plataforma educativa completa organizada por etapas e disciplinas do ensino português).
     
 - **Status:**
    - Snakened já resolve cálculos e também já é reconhecida no VS Code;
