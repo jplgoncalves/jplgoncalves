@@ -1,10 +1,7 @@
 <div align="center">
 
-  <!-- Cabeçalho dinâmico em Dark & Green -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1b12&height=220&section=header&text=Olá,%20eu%20sou%20o%20João%20Gonçalves!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Criador%20de%20Linguagens%20e%20Sistemas%20Operativos&descSize=15&descColor=8fa89b" alt="Banner João Gonçalves">
-
-  <!-- A mãozinha real a acenar em GIF posicionada de forma fluida -->
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" style="margin-top: -20px; margin-bottom: 10px;">
+  <!-- Caixa de fundo verde-escuro total gerada por SVG com texto e a mão a acenar -->
+  <img src="https://svg-banners.vercel.app/api?type=screen&text=Olá,%20eu%20sou%20o%20João%20Gonçalves!%20👋&background=%230d1b12&colors=%23ffffff,%238fa89b,%232ea043" alt="Banner Dark & Green">
 
   <p>
     <a href="https://raw.githubusercontent.com/jplgoncalves/jplgoncalves/main/cv-jplgoncalves_.pdf" target="_blank">
@@ -74,7 +71,6 @@
 
 ---
 
-<!-- Rodapé dinâmico em Dark & Green para fechar a página visualmente -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1b12&height=70&section=footer&text=Construindo%20o%20futuro,%20linha%20por%20linha.&fontSize=14&fontColor=8fa89b" alt="Footer">
+  <p><i>Obrigado por visitar o meu perfil. Construindo o futuro, linha por linha.</i></p>
 </div>
