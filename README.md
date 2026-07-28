@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1b12&height=200&section=header&text=Joao%20Goncalves&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Criador%20de%20Linguagens%20e%20Sistemas%20Operativos&descSize=15&descColor=8fa89b" alt="Banner João Gonçalves">
 
   <!-- Mão real a acenar -->
-  <h3>Olá, eu sou o João Gonçalves! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"></h3>
+  <h1>Olá, eu sou o João Gonçalves! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"></h1>
 
   <p>
     <a href="https://raw.githubusercontent.com/jplgoncalves/jplgoncalves/main/cv-jplgoncalves_.pdf" target="_blank">
