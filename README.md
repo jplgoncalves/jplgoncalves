@@ -1,33 +1,32 @@
 <!-- 
-  CABEÇALHO: Usando HTML para controlo total do layout e estilos.
-  Fundo escuro profissional com padding generoso para respiro.
+  CABEÇALHO: Fundo escuro com subtil tom verde-escuro e detalhes em verde menta.
 -->
-<div align="center" style="background-color: #0a192f; padding: 40px; border-radius: 10px; border: 1px solid #112240; color: #e6f1ff; font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+<div align="center" style="background-color: #0d1b12; padding: 40px; border-radius: 10px; border: 1px solid #1b3b22; color: #e2f0d9; font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
 
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" align="right" style="margin-right: 20px;">
 
   <h1 style="margin: 0; font-size: 3em; font-weight: 800; color: #ffffff;">
     Olá, eu sou o João Gonçalves!
   </h1>
-  <p style="font-size: 1.3em; color: #8892b0; margin-top: 10px;">
+  <p style="font-size: 1.3em; color: #8fa89b; margin-top: 10px;">
     Criador de Linguagens de Programação e Sistemas Operativos
   </p>
 
-  <!-- Botão de Currículo Criativo (Efeito Glow) -->
+  <!-- Botão de Currículo com Tema Verde (Efeito Glow) -->
   <a href="https://raw.githubusercontent.com/jplgoncalves/jplgoncalves/main/cv-jplgoncalves_.pdf" target="_blank" style="
     display: inline-block;
     margin-top: 25px;
     padding: 12px 35px;
     background-color: transparent;
-    color: #64ffda;
-    border: 2px solid #64ffda;
+    color: #2ea043;
+    border: 2px solid #2ea043;
     border-radius: 30px;
     font-weight: bold;
     text-decoration: none;
     font-size: 1em;
     transition: all 0.3s ease-in-out;
-    box-shadow: 0 4px 15px rgba(100, 255, 218, 0.3);
-  " onmouseover="this.style.backgroundColor='rgba(100, 255, 218, 0.1)'; this.style.boxShadow='0 6px 20px rgba(100, 255, 218, 0.5)';" onmouseout="this.style.backgroundColor='transparent'; this.style.boxShadow='0 4px 15px rgba(100, 255, 218, 0.3)';">
+    box-shadow: 0 4px 15px rgba(46, 160, 67, 0.2);
+  " onmouseover="this.style.backgroundColor='rgba(46, 160, 67, 0.1)'; this.style.boxShadow='0 6px 20px rgba(46, 160, 67, 0.4)';" onmouseout="this.style.backgroundColor='transparent'; this.style.boxShadow='0 4px 15px rgba(46, 160, 67, 0.2)';">
     📄 VISUALIZAR CURRÍCULO
   </a>
 
@@ -36,31 +35,27 @@
 ---
 
 <div align="center">
-  <img src="banner-.png" alt="Projetos Atuais de João Gonçalves" width="700" style="border-radius: 8px; box-shadow: 0 10px 30px -10px rgba(2,12,27,0.7); margin-top: 20px;">
+  <img src="banner-.png" alt="Projetos Atuais de João Gonçalves" width="700" style="border-radius: 8px; box-shadow: 0 10px 30px -10px rgba(5,20,10,0.8); margin-top: 20px;">
 </div>
 
 ---
 
 ## 🚀 Engenharia de Sistemas & Projetos Principais
 
-Em vez de tópicos simples, apresento os meus principais desenvolvimentos como marcos de engenharia.
-
 | Projeto | Descrição Técnica | Stack / Status |
 | :--- | :--- | :--- |
-| **[Snakened](https://github.com/jplgoncalves/snakened)** | Criação de uma linguagem de programação completa. Inclui motor de cálculo e integração nativa com VS Code. | 🐍 `Python` <br> 🟢 *Lançado (Mar/2026)* |
-| **[Gonix](https://github.com/jplgoncalves/gonix)** | Desenvolvimento de um micro-sistema operativo independente, focado na arquitetura de baixo nível. | ⚙️ `Assembly` <br> 🟡 *Fase de Kernel Básico* |
-| **[AprenderMais](https://github.com/jplgoncalves/aprendermais-platform)** | Plataforma educativa completa, estruturada por etapas de ensino e disciplinas do currículo português. | 🌐 `Web Platform` <br> 🟢 *Lançado (Jul/2026)* |
+| **[Snakened](https://github.com/jplgoncalves/snakened)** | Criação de uma linguagem de programação completa. Inclui motor de cálculo e integração nativa com VS Code. | 🐍 `Python` <br> 🟢 *Lançado (27 Mar 2026)* |
+| **[Gonix](https://github.com/jplgoncalves/gonix)** | Desenvolvimento de um micro-sistema operativo independente, focado na arquitetura de baixo nível. | ⚙️ `Assembly` <br> 🟢 *Lançado (1 Abr 2026)* |
+| **[AprenderMais](https://github.com/jplgoncalves/aprendermais-platform)** | Plataforma educativa completa, estruturada por etapas de ensino e disciplinas do currículo português. | 🌐 `Web Platform` <br> 🟢 *Lançado (27 Jul 2026)* |
 
 ---
 
 ## 🛠️ Stack Tecnológica Completa
 
-*Agrupada logicamente para facilitar a leitura por recrutadores e pares.*
+<div align="center" style="background-color: #0f2316; padding: 20px; border-radius: 8px; border: 1px solid #1b3b22;">
 
-<div align="center" style="background-color: #112240; padding: 20px; border-radius: 8px;">
-
-  <!-- LINHAGENS PRINCIPAIS & SISTEMAS (Mantendo as cores originais que gosta, mas alinhadas) -->
-  <h3 style="color: #e6f1ff; border-bottom: 1px solid #233554; padding-bottom: 5px; margin-bottom: 15px;">Linguagens & Sistemas</h3>
+  <!-- LINGUAGENS & SISTEMAS -->
+  <h3 style="color: #ffffff; border-bottom: 1px solid #1b3b22; padding-bottom: 5px; margin-bottom: 15px;">Linguagens & Sistemas</h3>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -77,7 +72,7 @@ Em vez de tópicos simples, apresento os meus principais desenvolvimentos como m
   <br><br>
 
   <!-- WEB & BASE DE DADOS -->
-  <h3 style="color: #e6f1ff; border-bottom: 1px solid #233554; padding-bottom: 5px; margin-bottom: 15px;">Web & Dados</h3>
+  <h3 style="color: #ffffff; border-bottom: 1px solid #1b3b22; padding-bottom: 5px; margin-bottom: 15px;">Web & Dados</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -87,7 +82,7 @@ Em vez de tópicos simples, apresento os meus principais desenvolvimentos como m
   <br><br>
 
   <!-- FERRAMENTAS & AMBIENTES -->
-  <h3 style="color: #e6f1ff; border-bottom: 1px solid #233554; padding-bottom: 5px; margin-bottom: 15px;">Ferramentas & SO</h3>
+  <h3 style="color: #ffffff; border-bottom: 1px solid #1b3b22; padding-bottom: 5px; margin-bottom: 15px;">Ferramentas & SO</h3>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white">
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
@@ -100,6 +95,6 @@ Em vez de tópicos simples, apresento os meus principais desenvolvimentos como m
 
 ---
 
-<div align="center" style="color: #8892b0; font-size: 0.9em; margin-top: 30px;">
+<div align="center" style="color: #8fa89b; font-size: 0.9em; margin-top: 30px;">
   <p>Obrigado por visitar o meu perfil. Sinta-se à vontade para explorar os meus repositórios. <br> Construindo o futuro, linha por linha.</p>
 </div>
