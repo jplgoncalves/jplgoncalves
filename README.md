@@ -1,10 +1,7 @@
 <div align="center">
 
-  <img src="banner-.png" alt="Banner João Gonçalves" width="700">
-
-  <h1>Olá, eu sou o João Gonçalves! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
-
-  <p><b>Criador de Linguagens de Programação e Sistemas Operativos</b></p>
+  <!-- Cabeçalho em formato de imagem/banner SVG integrado que suporta fundos e cores personalizadas -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=132e1c&height=220&section=header&text=Olá,%20eu%20sou%20o%20João%20Gonçalves!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Criador%20de%20Linguagens%20e%20Sistemas%20Operativos&descSize=16&descColor=8fa89b" alt="Banner João Gonçalves">
 
   <p>
     <a href="https://raw.githubusercontent.com/jplgoncalves/jplgoncalves/main/cv-jplgoncalves_.pdf" target="_blank">
@@ -12,6 +9,12 @@
     </a>
   </p>
 
+</div>
+
+---
+
+<div align="center">
+  <img src="banner-.png" alt="Projetos Atuais" width="700">
 </div>
 
 ---
