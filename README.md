@@ -1,41 +1,17 @@
-<!-- 
-  CABEÇALHO: Fundo escuro com subtil tom verde-escuro e detalhes em verde menta.
--->
-<div align="center" style="background-color: #0d1b12; padding: 40px; border-radius: 10px; border: 1px solid #1b3b22; color: #e2f0d9; font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+<div align="center">
 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" align="right" style="margin-right: 20px;">
+  <h1>Olá, eu sou o João Gonçalves! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
 
-  <h1 style="margin: 0; font-size: 3em; font-weight: 800; color: #ffffff;">
-    Olá, eu sou o João Gonçalves!
-  </h1>
-  <p style="font-size: 1.3em; color: #8fa89b; margin-top: 10px;">
-    Criador de Linguagens de Programação e Sistemas Operativos
+  <p><b>Criador de Linguagens de Programação e Sistemas Operativos</b></p>
+
+  <p>
+    <a href="https://raw.githubusercontent.com/jplgoncalves/jplgoncalves/main/cv-jplgoncalves_.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/📄_VISUALIZAR_CURRÍCULO-2ea043?style=for-the-badge&logoColor=white" alt="Currículo">
+    </a>
   </p>
 
-  <!-- Botão de Currículo com Tema Verde (Efeito Glow) -->
-  <a href="https://raw.githubusercontent.com/jplgoncalves/jplgoncalves/main/cv-jplgoncalves_.pdf" target="_blank" style="
-    display: inline-block;
-    margin-top: 25px;
-    padding: 12px 35px;
-    background-color: transparent;
-    color: #2ea043;
-    border: 2px solid #2ea043;
-    border-radius: 30px;
-    font-weight: bold;
-    text-decoration: none;
-    font-size: 1em;
-    transition: all 0.3s ease-in-out;
-    box-shadow: 0 4px 15px rgba(46, 160, 67, 0.2);
-  " onmouseover="this.style.backgroundColor='rgba(46, 160, 67, 0.1)'; this.style.boxShadow='0 6px 20px rgba(46, 160, 67, 0.4)';" onmouseout="this.style.backgroundColor='transparent'; this.style.boxShadow='0 4px 15px rgba(46, 160, 67, 0.2)';">
-    📄 VISUALIZAR CURRÍCULO
-  </a>
+  <img src="banner-.png" alt="Banner João Gonçalves" width="700">
 
-</div>
-
----
-
-<div align="center">
-  <img src="banner-.png" alt="Projetos Atuais de João Gonçalves" width="700" style="border-radius: 8px; box-shadow: 0 10px 30px -10px rgba(5,20,10,0.8); margin-top: 20px;">
 </div>
 
 ---
@@ -52,10 +28,8 @@
 
 ## 🛠️ Stack Tecnológica Completa
 
-<div align="center" style="background-color: #0f2316; padding: 20px; border-radius: 8px; border: 1px solid #1b3b22;">
-
-  <!-- LINGUAGENS & SISTEMAS -->
-  <h3 style="color: #ffffff; border-bottom: 1px solid #1b3b22; padding-bottom: 5px; margin-bottom: 15px;">Linguagens & Sistemas</h3>
+### 💻 Linguagens & Sistemas
+<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -69,20 +43,20 @@
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
   <img src="https://img.shields.io/badge/Matlab-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white">
   <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white">
-  <br><br>
+</p>
 
-  <!-- WEB & BASE DE DADOS -->
-  <h3 style="color: #ffffff; border-bottom: 1px solid #1b3b22; padding-bottom: 5px; margin-bottom: 15px;">Web & Dados</h3>
+### 🌐 Web & Dados
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
   <img src="https://img.shields.io/badge/Wikipedia-000000?style=for-the-badge&logo=wikipedia&logoColor=white">
-  <br><br>
+</p>
 
-  <!-- FERRAMENTAS & AMBIENTES -->
-  <h3 style="color: #ffffff; border-bottom: 1px solid #1b3b22; padding-bottom: 5px; margin-bottom: 15px;">Ferramentas & SO</h3>
+### ⚙️ Ferramentas & SO
+<p align="center">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white">
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
@@ -90,11 +64,10 @@
   <img src="https://img.shields.io/badge/Mac_OS-000000?style=for-the-badge&logo=apple&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-
-</div>
+</p>
 
 ---
 
-<div align="center" style="color: #8fa89b; font-size: 0.9em; margin-top: 30px;">
-  <p>Obrigado por visitar o meu perfil. Sinta-se à vontade para explorar os meus repositórios. <br> Construindo o futuro, linha por linha.</p>
+<div align="center">
+  <p><i>Obrigado por visitar o meu perfil. Construindo o futuro, linha por linha.</i></p>
 </div>
