@@ -1,7 +1,10 @@
 <div align="center">
 
-  <!-- Caixa de fundo verde-escuro total gerada por SVG com texto e a mão a acenar -->
-  <img src="https://svg-banners.vercel.app/api?type=screen&text=Olá,%20eu%20sou%20o%20João%20Gonçalves!%20👋&background=%230d1b12&colors=%23ffffff,%238fa89b,%232ea043" alt="Banner Dark & Green">
+  <!-- Cabeçalho oficial Dark & Green sem erros de parâmetro -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1b12&height=200&section=header&text=Joao%20Goncalves&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Criador%20de%20Linguagens%20e%20Sistemas%20Operativos&descSize=15&descColor=8fa89b" alt="Banner João Gonçalves">
+
+  <!-- Mão real a acenar perfeitamente sincronizada -->
+  <h3>Olá, eu sou o João Gonçalves! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"></h3>
 
   <p>
     <a href="https://raw.githubusercontent.com/jplgoncalves/jplgoncalves/main/cv-jplgoncalves_.pdf" target="_blank">
