@@ -1,18 +1,15 @@
 <div align="center">
-
-  <h1>Olá, eu sou o João Gonçalves! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
-
-  <p><b>Criador de Linguagens de Programação e Sistemas Operativos</b></p>
-
-  <p>
-    <a href="https://raw.githubusercontent.com/jplgoncalves/jplgoncalves/main/cv-jplgoncalves_.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/📄_VISUALIZAR_CURRÍCULO-2ea043?style=for-the-badge&logoColor=white" alt="Currículo">
-    </a>
-  </p>
-
   <img src="banner-.png" alt="Banner João Gonçalves" width="700">
-
 </div>
+
+> ## ⚡ Olá, eu sou o João Gonçalves! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
+> **Criador de Linguagens de Programação e Sistemas Operativos**
+> 
+> <p align="center">
+>   <a href="https://raw.githubusercontent.com/jplgoncalves/jplgoncalves/main/cv-jplgoncalves_.pdf" target="_blank">
+>     <img src="https://img.shields.io/badge/📄_VISUALIZAR_CURRÍCULO-2ea043?style=for-the-badge&logoColor=white" alt="Currículo">
+>   </a>
+> </p>
 
 ---
 
